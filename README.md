@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://lrdoc.github.io/HartfordMapTour/
+- Leaflet Map https://lrdoc.github.io/BostonMapTour/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1lKgjWADLduEM1LZLl_waY9wOKCYTCVCo9jzOZRTAzdE/edit?usp=sharing
 
 ## Create Your Own
